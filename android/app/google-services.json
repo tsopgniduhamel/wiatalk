@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718415839327",
+    "project_id": "finalwiatalk",
+    "storage_bucket": "finalwiatalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718415839327:android:905e41dc3c98992fa29bea",
+        "android_client_info": {
+          "package_name": "com.example.final_wiatalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718415839327-1fi4afph3a2qve73d7trpbq0k5noktke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwEifDtuYCnvl64YDU_wluFoQO1Zgf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718415839327-1fi4afph3a2qve73d7trpbq0k5noktke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
